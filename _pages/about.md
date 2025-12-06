@@ -7,7 +7,7 @@ subtitle: <a href='#'>Postdoctoral researcher</a>. Max Planck Institute of Psych
 profile:
   align: right
   image: prof_pic_meryl.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
     <p></p>
