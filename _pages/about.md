@@ -27,11 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a systems neuroscientist passionate about brain-body interactions and interoception. 
+I am a systems neuroscientist passionate about brain-body interactions and interoception.
 
-For decades (centuries?), neuroscientists have studied the brain entirely in isolation from the body it is attached to. 
-However, we all know how much the way we feel inside can impact our judgement, mood or emotions. In the common language, we often use bodily sensations as a way to describe emotions: "my heart started racing", "I felt butterflies in my stomach", "I had an instant gut feeling", "she was breathtaking"... 
+For decades (centuries?), neuroscientists have studied the brain entirely in isolation from the body it is attached to.
+However, we all know how much the way we feel inside can impact our judgement, mood or emotions. In the common language, we often use bodily sensations as a way to describe emotions: "my heart started racing", "I felt butterflies in my stomach", "I had an instant gut feeling", "she was breathtaking"...
 
-My research aim to enravel how, when and why bodily signals influence brain activity, and the mechanisms the brain use to precisely control and regulate these signals, in health and disease. 
-
-
+My research aim to enravel how, when and why bodily signals influence brain activity, and the mechanisms the brain use to precisely control and regulate these signals, in health and disease.
