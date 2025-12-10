@@ -22,7 +22,7 @@
 
 </div> -->
 
-## User community
+<!-- ## User community
 
 The vibrant community of **al-folio** users is growing!
 Academics around the world use this theme for their homepages, blogs, lab pages, as well as webpages for courses, workshops, conferences, meetups, and more.
@@ -185,7 +185,7 @@ Feel free to add your own page(s) by sending a PR.
 <a href="https://inbt.jhu.edu/epidiagnostics/" target="_blank">★</a>
 <a href="https://www.nuesl.org/" target="_blank">★</a>
 <a href="https://big-culture.github.io/" target="_blank">★</a>
-<a href="https://martinbulla.github.io/bullab/" target="_blank">★</a>  
+<a href="https://martinbulla.github.io/bullab/" target="_blank">★</a>
 <a href="https://gpforesteyes.github.io/" target="_blank">★</a>
 </td>
 </tr>
@@ -216,9 +216,9 @@ Workshop on Diffusion Models (NeurIPS: <a href="https://diffusionworkshop.github
 Workshop on Structured Probabilistic Inference & Generative Modeling (ICML: <a href="https://spigmworkshop.github.io/" target="_blank">2023</a>, <a href="https://spigmworkshop2024.github.io/" target="_blank">2024</a>)
 </td>
 </tr>
-</table>
+</table> -->
 
-## Lighthouse PageSpeed Insights
+<!-- ## Lighthouse PageSpeed Insights
 
 ### Desktop
 
@@ -232,10 +232,10 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
 
 Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.web.dev/report?url=https%3A%2F%2Falshedivat.github.io%2Fal-folio%2F&form_factor=mobile)
 
-## Table Of Contents
+## Table Of Contents -->
 
 <!--ts-->
-
+<!--
 - [al-folio](#al-folio)
   - [User community](#user-community)
   - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
@@ -267,10 +267,10 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
     - [Maintainers](#maintainers)
     - [All Contributors](#all-contributors)
   - [Star History](#star-history)
-  - [License](#license)
+  - [License](#license) -->
   <!--te-->
 
-## Getting started
+<!-- ## Getting started
 
 Want to learn more about Jekyll? Check out [this tutorial](https://www.taniarascia.com/make-a-static-website-with-jekyll/). Why Jekyll? Read [Andrej Karpathy's blog post](https://karpathy.github.io/2014/07/01/switching-to-jekyll/)! Why write a blog? Read [Rachel Thomas blog post](https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045).
 
@@ -284,8 +284,8 @@ For customization details please refer to [CUSTOMIZE.md](CUSTOMIZE.md).
 
 ## Features
 
-### Light/Dark Mode
-
+### Light/Dark Mode -->
+<!--
 This template has a built-in light/dark mode. It detects the user preferred color scheme and automatically switches to it. You can also manually switch between light and dark mode by clicking on the sun/moon icon in the top right corner of the page.
 
 <p align="center">
@@ -321,9 +321,9 @@ You can add extra information to a publication, like a PDF file in the [assets/p
 
 [![Publications Preview](readme_preview/publications.png)](https://alshedivat.github.io/al-folio/publications/)
 
----
+--- -->
 
-### Collections
+<!-- ### Collections
 
 This Jekyll theme implements `collections` to let you break up your work into categories. The theme comes with two default collections: `news` and `projects`. Items from the `news` collection are automatically displayed on the home page. Items from the `projects` collection are displayed on a responsive grid on projects page.
 
@@ -339,9 +339,9 @@ You can easily create your own collections, apps, short stories, courses, or wha
 
 #### The iconic style of Distill
 
-The theme allows you to create blog posts in the [distill.pub](https://distill.pub/) style:
+The theme allows you to create blog posts in the [distill.pub](https://distill.pub/) style: -->
 
-[![Distill Preview](readme_preview/distill.png)](https://alshedivat.github.io/al-folio/blog/2021/distill/)
+<!-- [![Distill Preview](readme_preview/distill.png)](https://alshedivat.github.io/al-folio/blog/2021/distill/)
 
 For more details on how to create distill-styled posts using `<d-*>` tags, please refer to [the example](https://alshedivat.github.io/al-folio/blog/2021/distill/).
 
@@ -352,9 +352,9 @@ For more details on how to create distill-styled posts using `<d-*>` tags, pleas
 <p align="center">
 <a href="https://alshedivat.github.io/al-folio/blog/2015/math/" target="_blank"><img src="readme_preview/math.png" width=400></a>
 <a href="https://alshedivat.github.io/al-folio/blog/2015/code/" target="_blank"><img src="readme_preview/code.png" width=400></a>
-</p>
+</p> -->
 
-#### Photos, Audio, Video and more
+<!-- #### Photos, Audio, Video and more
 
 Photo formatting is made simple using [Bootstrap's grid system](https://getbootstrap.com/docs/4.4/layout/grid/). Easily create beautiful grids within your blog posts and project pages, also with support for [video](https://alshedivat.github.io/al-folio/blog/2023/videos/) and [audio](https://alshedivat.github.io/al-folio/blog/2023/audios/) embeds:
 
@@ -364,9 +364,9 @@ Photo formatting is made simple using [Bootstrap's grid system](https://getboots
   </a>
 </p>
 
----
+--- -->
 
-### Other features
+<!-- ### Other features
 
 #### GitHub's repositories and user stats
 
@@ -378,16 +378,16 @@ Edit the `_data/repositories.yml` and change the `github_users` and `github_repo
 
 You may also use the following codes for displaying this in any other pages.
 
-```html
+```html -->
 <!-- code for GitHub users -->
-{% if site.data.repositories.github_users %}
+<!-- {% if site.data.repositories.github_users %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for user in site.data.repositories.github_users %} {% include repository/repo_user.liquid username=user %} {% endfor %}
 </div>
 {% endif %}
 
-<!-- code for GitHub trophies -->
-{% if site.repo_trophies.enabled %} {% for user in site.data.repositories.github_users %} {% if site.data.repositories.github_users.size > 1 %}
+code for GitHub trophies -->
+<!-- {% if site.repo_trophies.enabled %} {% for user in site.data.repositories.github_users %} {% if site.data.repositories.github_users.size > 1 %}
 <h4>{{ user }}</h4>
 {% endif %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
@@ -395,17 +395,17 @@ You may also use the following codes for displaying this in any other pages.
 </div>
 {% endfor %} {% endif %}
 
-<!-- code for GitHub repositories -->
-{% if site.data.repositories.github_repos %}
+code for GitHub repositories -->
+<!-- {% if site.data.repositories.github_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.github_repos %} {% include repository/repo.liquid repository=repo %} {% endfor %}
 </div>
 {% endif %}
-```
+``` -->
 
----
+<!-- --- -->
 
-#### Theming
+<!-- #### Theming
 
 A variety of beautiful theme colors have been selected for you to choose from. The default is purple, but you can quickly change it by editing the `--global-theme-color` variable in the `_sass/_themes.scss` file. Other color variables are listed there as well. The stock theme color options available can be found at [\_sass/\_variables.scss](_sass/_variables.scss). You can also add your own colors to this file assigning each a name for ease of use across the template.
 
@@ -449,16 +449,16 @@ For frequently asked questions, please refer to [FAQ.md](FAQ.md).
 
 Contributions to al-folio are very welcome! Before you get started, please take a look at [the guidelines](CONTRIBUTING.md).
 
-If you would like to improve documentation or fix a minor inconsistency or bug, please feel free to send a PR directly to `main`. For more complex issues/bugs or feature requests, please open an issue using the appropriate template.
+If you would like to improve documentation or fix a minor inconsistency or bug, please feel free to send a PR directly to `main`. For more complex issues/bugs or feature requests, please open an issue using the appropriate template. -->
 
-### Maintainers
+<!-- ### Maintainers
 
-Our most active contributors are welcome to join the maintainers team. If you are interested, please reach out!
+Our most active contributors are welcome to join the maintainers team. If you are interested, please reach out! -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
+<!-- <table>
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://maruan.alshedivat.com"><img src="https://avatars.githubusercontent.com/u/2126561?v=4" width="100px;" alt=""/><br /><sub><b>Maruan</b></sub></a></td>
@@ -467,14 +467,14 @@ Our most active contributors are welcome to join the maintainers team. If you ar
       <td align="center" valign="top" width="14.28%"><a href="https://george-gca.github.io/"><img src="https://avatars.githubusercontent.com/u/31376482?v=4" width="100px;" alt=""/><br /><sub><b>George</b></sub></a></td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-### All Contributors
+<!-- ### All Contributors
 
 <a href="https://contrib.rocks">
   <img src="https://contrib.rocks/image?repo=alshedivat/al-folio&max=500&columns=24" />
@@ -488,7 +488,7 @@ Our most active contributors are welcome to join the maintainers team. If you ar
     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=alshedivat/al-folio&type=Date" />
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=alshedivat/al-folio&type=Date" />
   </picture>
-</a>
+</a> -->
 
 ## License
 
