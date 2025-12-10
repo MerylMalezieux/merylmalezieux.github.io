@@ -3,13 +3,13 @@
   contents:
     - name: Full Name
       value: Meryl Malezieux
-  #  - name: Date of Birth
-   #   value: 7th July 1990
+    #  - name: Date of Birth
+    #   value: 7th July 1990
     - name: Languages
       value: English (fluent), French (native), German (B1)
 
 - title: Education
-  type: time_table 
+  type: time_table
   contents:
     - title: PhD
       institution: University of Bordeaux, Bordeaux, France
@@ -21,8 +21,8 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: MSc in Neuroscience and Neuropsychopharmacology 
-      institution: University of Bordeaux, Bordeaux, France 
+    - title: MSc in Neuroscience and Neuropsychopharmacology
+      institution: University of Bordeaux, Bordeaux, France
       year: 2014
       description:
         - Description 1.
@@ -55,11 +55,11 @@
         - Description 2.
 
 #- title: Open Source Projects
- # type: time_table
- # contents:
- #   - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
- #     year: 2015-now
- #     description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# type: time_table
+# contents:
+#   - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#     year: 2015-now
+#     description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
