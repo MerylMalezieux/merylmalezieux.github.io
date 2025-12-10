@@ -26,6 +26,7 @@
     {
       "name": "Max Planck Institute of Psychiatry",
       "position": "Postdoctorate Researcher",
+      "location":"Munich, Germany",
       // "url": "https://example.com",
       "startDate": "2019",
       "endDate": "now",
@@ -35,6 +36,7 @@
     {
       "name": "Interdisciplinary Institute for Neurosciences",
       "position": "PhD candidate",
+      "location":"Bordeaux, France",
       // "url": "https://example.com",
       "startDate": "2014",
       "endDate": "2018",
@@ -59,8 +61,8 @@
       "institution": "University of Bordeaux Segalen, Bordeaux, France",
       "location": "Bordeaux, France",
       // "url": "https://www.uzh.ch/",
-      "area": "Neuroscience",
-      "studyType": "PhD",
+      "area": "Synaptic Circuits of Memory",
+      "studyType": "PhD in Neuroscience",
       "startDate": "2014",
       "endDate": "2018"
       //"score": "10",
@@ -70,8 +72,8 @@
       "institution": "University of Bordeaux Segalen, Bordeaux, France",
       "location": "Bordeaux, France",
       // "url": "https://www.uzh.ch/",
-      "area": "Neuroscience and Neuropsychopharmacology",
-      "studyType": "MSc",
+      // "area": "",
+      "studyType": "MSc in Neuroscience and Neuropsychopharmacology",
       "startDate": "2012",
       "endDate": "2014"
       //"score": "10",
@@ -81,8 +83,8 @@
       "institution": "University of Bordeaux Segalen, Bordeaux, France",
       "location": "Bordeaux, France",
       // "url": "https://www.uzh.ch/",
-      "area": "Cellular and Molecular Biology",
-      "studyType": "BSc",
+      // "area": "",
+      "studyType": "BSc in Cellular and Molecular Biology",
       "startDate": "2009",
       "endDate": "2012"
       //"score": "10",
@@ -196,7 +198,7 @@
       "fluency": "B1",
       "icon": ""
     }
-  ],
+  ]
   // "interests": [
   //   {
   //     "name": "Physics",
@@ -223,14 +225,14 @@
   //     "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
   //   }
   // ],
-  "projects": [
-    {
-      // "name": "Quantum Computing",
-      // "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      // "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      // "startDate": "2018-01-01",
-      // "endDate": "2018-01-01",
-      // "url": "https://example.com"
-    }
-  ]
+  // "projects": [
+  //   {
+  //     // "name": "Quantum Computing",
+  //     // "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+  //     // "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+  //     // "startDate": "2018-01-01",
+  //     // "endDate": "2018-01-01",
+  //     // "url": "https://example.com"
+  //   }
+  // ]
 }
