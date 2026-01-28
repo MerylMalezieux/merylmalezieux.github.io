@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-19'
+  last_updated: '2026-01-28'
 papers:
   MIRYlXAAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -10,11 +10,11 @@ papers:
     title: 'Beyond the activity-based anorexia model: reinforcing values of exercise and feeding examined in stressed adolescent male and female mice'
     year: '2019'
   MIRYlXAAAAAJ:UeHWp8X0CEIC:
-    citations: 24
+    citations: 25
     title: Theta Oscillations Coincide with Sustained Hyperpolarization in CA3 Pyramidal Cells, Underlying Decreased Firing
     year: '2020'
   MIRYlXAAAAAJ:Y0pCki6q_DkC:
-    citations: 113
+    citations: 115
     title: Neural circuits for emotion
     year: '2023'
   MIRYlXAAAAAJ:YsMSGLbcyi4C:
@@ -26,7 +26,7 @@ papers:
     title: Intracellular dynamic of CA3 pyramidal cells of the hippocampus during awake states
     year: '2018'
   MIRYlXAAAAAJ:u-x6o8ySG0sC:
-    citations: 53
+    citations: 54
     title: Control of spike transfer at hippocampal mossy fiber synapses in vivo by GABAA and GABAB receptor-mediated inhibition
     year: '2017'
   MIRYlXAAAAAJ:u5HHmVD_uO8C:
