@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-11'
+  last_updated: '2026-02-27'
 papers:
   MIRYlXAAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -14,13 +14,9 @@ papers:
     title: Theta Oscillations Coincide with Sustained Hyperpolarization in CA3 Pyramidal Cells, Underlying Decreased Firing
     year: '2020'
   MIRYlXAAAAAJ:Y0pCki6q_DkC:
-    citations: 118
+    citations: 121
     title: Neural circuits for emotion
     year: '2023'
-  MIRYlXAAAAAJ:YsMSGLbcyi4C:
-    citations: 7
-    title: "Early synaptic deficits in the APP/PS1 mouse model of Alzheimer\u2019s disease involve neuronal adenosine A2A receptors. Nat Commun. 2016; 7: 11915"
-    year: Unknown Year
   MIRYlXAAAAAJ:eQOLeE2rZwMC:
     citations: 0
     title: Intracellular dynamic of CA3 pyramidal cells of the hippocampus during awake states
@@ -30,6 +26,6 @@ papers:
     title: Control of spike transfer at hippocampal mossy fiber synapses in vivo by GABAA and GABAB receptor-mediated inhibition
     year: '2017'
   MIRYlXAAAAAJ:u5HHmVD_uO8C:
-    citations: 278
+    citations: 279
     title: Early synaptic deficits in the APP/PS1 mouse model of Alzheimer/'s disease involve neuronal adenosine A2A receptors
     year: '2016'
