@@ -29,7 +29,7 @@ latest_posts:
 
 I am a neuroscientist passionate about brain-body interactions, emotions and interoception. 
 
-I was born in Bordeaux, in the south-west of France, where I grew up and completed my PhD before moving to Munich to work at the Max Planck Institute in the Emotion Research Department. Here, I study how signals from the heart are processed in the brain, and how this influences emotion states. 
+I was born and raised in Bordeaux, in the south-west of France, where completed my PhD at the Interdisciplinary Institute for Neuroscience. In 2019, I moved to Munich to work at the Max Planck Institute in the Emotion Research Department. Here, I study how signals from the heart are processed in the brain, and how this influences emotion states. 
 
 I enjoy food and cooking, and went on a multi-year long quest to find the best croissant and best cocktail bar in Munich. I also enjoy reading and discussing books with my book club friends, listening to podcasts (a few of my favorites are Heavyweight, Reply All, Science vs, Good Hang). 
 
