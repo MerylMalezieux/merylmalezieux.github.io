@@ -31,9 +31,9 @@ I am a neuroscientist passionate about brain-body interactions, emotions and int
 
 I was born and raised in Bordeaux, in the south-west of France, where I completed my PhD at the Interdisciplinary Institute for Neuroscience. In 2019, I moved to Munich to work at the Max Planck Institute in the Emotion Research Department. Here, I study how signals from the heart are processed in the brain, and how this influences emotion states. 
 
-I enjoy food and cooking, and went on a multi-year long quest to find the best croissant and best cocktail bar in Munich. I also enjoy reading and discussing books with my book club friends, listening to podcasts (a few of my favorites are Heavyweight, Reply All, Science vs, Good Hang). 
+I enjoy food and cooking, and went on a multi-year long quest to find the best croissant and best cocktail bar in Munich. I also enjoy reading and discussing books with my book club friends, going on walks and listening to podcasts (a few of my favorites are Heavyweight, Reply All, Science vs, Good Hang). 
 
-This picture was taken at the Snoqualmie Falls, which I visited in 2025. As a Twin Peaks fan, this was incredible to see in real life.
+This picture was taken at Snoqualmie Falls, which I visited in 2025. As a Twin Peaks fan, this was incredible to see in real life. 
 
 <!-- For decades (centuries?), neuroscientists have studied the brain entirely in isolation from the body it is attached to. -->
 <!-- However, we all know how much the way we feel inside can impact our judgement, mood or emotions. In the common language, we often use bodily sensations as a way to describe emotions: "my heart started racing", "I felt butterflies in my stomach", "I had an instant gut feeling", "she was breathtaking"... -->
