@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-13'
 papers:
   MIRYlXAAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Theta Oscillations Coincide with Sustained Hyperpolarization in CA3 Pyramidal Cells, Underlying Decreased Firing
     year: '2020'
   MIRYlXAAAAAJ:Y0pCki6q_DkC:
-    citations: 151
+    citations: 152
     title: Neural circuits for emotion
     year: '2023'
   MIRYlXAAAAAJ:eQOLeE2rZwMC:
@@ -22,7 +22,7 @@ papers:
     title: Intracellular dynamic of CA3 pyramidal cells of the hippocampus during awake states
     year: '2018'
   MIRYlXAAAAAJ:u-x6o8ySG0sC:
-    citations: 59
+    citations: 60
     title: Control of spike transfer at hippocampal mossy fiber synapses in vivo by GABAA and GABAB receptor-mediated inhibition
     year: '2017'
   MIRYlXAAAAAJ:u5HHmVD_uO8C:
