@@ -1,32 +1,36 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-05'
 papers:
   MIRYlXAAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: "Dynamique intracellulaire des cellules pyramidales de CA3 dans l'hippocampe pendant les \xE9tats de veille"
     year: '2018'
   MIRYlXAAAAAJ:9yKSN-GCB0IC:
-    citations: 21
+    citations: 20
     title: 'Beyond the activity-based anorexia model: reinforcing values of exercise and feeding examined in stressed adolescent male and female mice'
     year: '2019'
   MIRYlXAAAAAJ:UeHWp8X0CEIC:
-    citations: 29
+    citations: 30
     title: Theta Oscillations Coincide with Sustained Hyperpolarization in CA3 Pyramidal Cells, Underlying Decreased Firing
     year: '2020'
   MIRYlXAAAAAJ:Y0pCki6q_DkC:
     citations: 158
     title: Neural circuits for emotion
     year: '2023'
+  MIRYlXAAAAAJ:_FxGoFyzp5QC:
+    citations: 9
+    title: "Early synaptic deficits in the APP/PS1 mouse model of Alzheimer\u2019s disease involve neuronal adenosine A2A receptors. Nat Commun. 2016; 7: 11915"
+    year: Unknown Year
   MIRYlXAAAAAJ:eQOLeE2rZwMC:
     citations: 0
     title: Intracellular dynamic of CA3 pyramidal cells of the hippocampus during awake states
     year: '2018'
   MIRYlXAAAAAJ:u-x6o8ySG0sC:
-    citations: 60
-    title: Control of spike transfer at hippocampal mossy fiber synapses in vivo by GABAA and GABAB receptor-mediated inhibition
+    citations: 61
+    title: Control of Spike Transfer at Hippocampal Mossy Fiber Synapses In Vivo by GABAA and GABAB Receptor-Mediated Inhibition
     year: '2017'
   MIRYlXAAAAAJ:u5HHmVD_uO8C:
-    citations: 289
+    citations: 283
     title: Early synaptic deficits in the APP/PS1 mouse model of Alzheimer/'s disease involve neuronal adenosine A2A receptors
     year: '2016'
   MIRYlXAAAAAJ:ufrVoPGSRksC:
